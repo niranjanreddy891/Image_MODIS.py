@@ -1,4 +1,5 @@
-To process MODIS data
+To process MODIS data.
+
 We can calculate 
 'ndvi',   'Normalized Difference Vegetation Index',
 
