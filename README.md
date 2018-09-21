@@ -1,4 +1,3 @@
-# Image_MODIS.py
 To process MODIS data
 We can calculate 
 'ndvi',   'Normalized Difference Vegetation Index',
